@@ -1,2 +1,2 @@
 # python-helloword
-Suse scholarship project
+Suse scholarship project.
